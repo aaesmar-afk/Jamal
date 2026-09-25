@@ -1,0 +1,9 @@
+{
+  "appId": "com.aljamal.supermarket",
+  "appName": "سوبر ماركت الجمال",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
